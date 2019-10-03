@@ -1,7 +1,6 @@
 # 实习日志  
 ***
-## DAY1  
-*** 
+## DAY1   
 ### PLAN    
 - 学习markdown语法，手写一个md文件  
 - 学习基本的Android知识（看《第一行代码》）   
@@ -14,8 +13,7 @@
 5. 关于Intent的显示与隐式使用   
 6. 创立activitytest项目，完成相关基本操作，见activitytest文件夹   
 ***
-## DAY2
-***
+## DAY2   
 ### PLAN    
 - 巩固昨天学习的内容   
 - 继续看《第一行代码》，学习关于活动的相关知识   
@@ -34,3 +32,9 @@
 - 无法在app/build.gradle中导入support库   
 implementation 'com.android.support:percent:28.+' 报错    
 暂时无法使用百分比布局   
+***  
+## DAY3   
+### PLAN   
+- 巩固昨天学习的内容，加强理解   
+- 构思实现计算器的布局、控件安排，尽量将框架构建出来   
+- 继续按《第一行代码》学习基本的知识   
