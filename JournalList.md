@@ -52,4 +52,6 @@ implementation 'com.android.support:percent:28.+' 报错
   3. 第一个输入字符为'.'时自动在前面添加0
   4. 调试多次后会出现运算符不可用情况，点击事件无响应
   5. 调整输入和输出显示的内容靠左
-  6. 美化UI界面，有点丑。。。。
+  6. 美化UI界面，有点丑。。。。   
+- 还是希望有人指导一下从本地库再次上传项目到github上的方法，每次都要 git remote rm origin和git pull origin master感觉不太规范。   
+***
