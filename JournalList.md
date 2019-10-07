@@ -86,6 +86,12 @@ implementation 'com.android.support:percent:28.+' 报错
 - 完成了科学计数法按钮e的功能   
 - 完成了计算结果的整数、小数的区别输出和小数点保留位数的限制   
 - 删除键功能完成   
+- 清空键功能完成   
 ### PROBLEMS   
 - TextView中字体的大小自适应可以通过AppCompatTextView实现，但是它在support-v7包中，而API 29已经不能够导入com.android.support:appcompat-v7，显示最高只能在API 28中进行使用，尝试了下载API 28，但在AS上还是不能够导入，被卡在这里很久  
 - 关于特殊输入情况，能够简单处理一些情况，但是有一些极端条件还是没有办法能够处处考虑周全，还要想办法改进，代码不要太繁琐   
+***
+## DAY7   
+### PLAN   
+- 完善程序功能   
+### GIANS   
