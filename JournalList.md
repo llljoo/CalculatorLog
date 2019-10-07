@@ -95,3 +95,7 @@ implementation 'com.android.support:percent:28.+' 报错
 ### PLAN   
 - 完善程序功能   
 ### GIANS   
+- 解决了之前的一个问题，即二次上传文件至github中的合理方法，建立一个新文件夹，clone下GitHub上的整个文件项目，再进一步进行add即可   
+- 学习Fragment的相关知识和用法    
+- 初识BroadCast机制   
+- 计算器app初步确定，但是部分pluses项还是无法实现   
